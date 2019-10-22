@@ -1,4 +1,4 @@
-FROM postgres:latest
+FROM postgres:11.5
 
 ENV TZ 'Asia/Tokyo'
 ENV LANG ja_JP.UTF-8
